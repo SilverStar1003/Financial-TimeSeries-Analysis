@@ -1,1 +1,2 @@
 # Financial-TimeSeries-Analysis
+Financial Time Series Analysis is a specialized field within data analysis and finance that focuses on examining and interpreting historical financial data, particularly stock prices, currency exchange rates, commodity prices, and other financial instruments over time. This analysis aims to uncover patterns, trends, and insights in financial data to inform investment decisions, risk management strategies, and economic forecasting.
